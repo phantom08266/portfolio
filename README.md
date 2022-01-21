@@ -17,9 +17,8 @@ C#, WPF로 윈도우 개발 경력이 있으며, 현재는 백엔드 개발자�
 >개발 기간: 2021.11.4 ~
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / Mysql / H2 /
->Github Action / 
->AWS EC2 / AWS S3 /
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / Mysql / H2   
+>Github Action /AWS EC2 / AWS S3  
 >Spring Rest Docs / CodeCov / Jacoco
 >  
 >[프로젝트 상세 설명](https://github.com/whatsthelunchmenu/ClimbLabs-api) 참고
@@ -31,9 +30,8 @@ C#, WPF로 윈도우 개발 경력이 있으며, 현재는 백엔드 개발자�
 >개발 기간: 2021.2.24 ~ 2021.9.16
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Mybatis / Mysql /
->Jenkins / Redis / Docker /
+>Java 8 / Spring Boot / Gradle / Mybatis / Mysql   
+>Jenkins / Redis / Docker   
 >Naver Cloud / NginX / Ngrinder 
 >  
 >[프로젝트 상세 설명](https://github.com/f-lab-edu/careers) 참고
-
