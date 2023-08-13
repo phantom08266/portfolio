@@ -1,6 +1,6 @@
 # 이준희 포트폴리오
 >항상 보다 나은 방법은 없는지 고민하고 노력하는 개발자 이준희입니다. 
-C#, WPF로 윈도우 개발 경력이 있으며, 현재는 백엔드 개발자가 되기 위해 SpringBoot, JPA 등을 학습하고, 이를 적용하기 위해 백엔드 서버 개발 프로젝트들을 진행하고 있습니다.
+
 
 </br>
 
@@ -12,9 +12,22 @@ C#, WPF로 윈도우 개발 경력이 있으며, 현재는 백엔드 개발자�
 </br>
 
 ## :pushpin: Projects
-### 1. [ClimbLabs](https://github.com/whatsthelunchmenu/ClimbLabs-api)
+### 1. [Litarary](https://github.com/dukki-labs/litarary)
+>사내 오프라인 도서공유 서비스 (팀 프로젝트)  
+>개발 기간: 2023.01.9 ~ 2023.05.4
+>  
+>기술 스택:  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / postgresql   
+>Github Action / Fly.io / Koyeb   
+>Spring Rest Docs / Sonacloud / Jacoco
+>  
+>[프로젝트 상세 설명](https://github.com/dukki-labs/litarary) 참고
+
+---
+
+### 2. [ClimbLabs](https://github.com/whatsthelunchmenu/ClimbLabs-api)
 >전국에 있는 클라이밍장을 소개하고 추천해주는 앱을 개발하기위한 프로젝트 (팀 프로젝트)  
->개발 기간: 2021.11.4 ~
+>개발 기간: 2021.11.4 ~ 2022.01.28
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / Mysql / H2   
@@ -25,7 +38,7 @@ C#, WPF로 윈도우 개발 경력이 있으며, 현재는 백엔드 개발자�
 
 ---
 
-### 2. [Careers](https://github.com/f-lab-edu/careers)
+### 3. [Careers](https://github.com/f-lab-edu/careers)
 >IT 현직자들의 인사이트 공유 놀이터 커리어리를 기반으로 만든 토이 프로젝트입니다 (팀 프로젝트)  
 >개발 기간: 2021.2.24 ~ 2021.9.16
 >  
